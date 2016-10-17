@@ -8,6 +8,8 @@
      * Time: 14:10
      */
     ?>
+
+<a href = "helloSelector.php"> CLICK ME</a>
 </html>
 
 
