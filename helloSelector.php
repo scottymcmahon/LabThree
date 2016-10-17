@@ -11,4 +11,8 @@
             echo "<a href='helloPrinter.php?planet=uranus'> Uranus</a>";
         ?>
     </ul>
+
+<style>
+    ul {list-style: decimal}
+</style>
 </html>
