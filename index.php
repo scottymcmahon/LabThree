@@ -8,9 +8,13 @@
      * Time: 14:10
      */
     ?>
-<p> HELLO EVERYONE </p>
+
 <a href = "helloSelector.php"> CLICK ME</a>
 
+<style>
+    a {font-weight: 100}
+    a {color: crimson}
+    a {text-underline-mode: false}
+</style>
+
 </html>
-
-
