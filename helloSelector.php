@@ -6,13 +6,9 @@
 
     <ul>
         <?php
-            echo "<a href='helloPrinter.php?planet=earth'> Earth</a><break>";
-            echo "<a href='helloPrinter.php?planet=mars'> Mars</a>";
-            echo "<a href='helloPrinter.php?planet=uranus'> Uranus</a>";
+            echo "<li><a href='helloPrinter.php?planet=earth'> Earth</a></li>";
+            echo "<li><a href='helloPrinter.php?planet=mars'> Mars</a></li>";
+            echo "<li><a href='helloPrinter.php?planet=uranus'> Uranus</a></li>";
         ?>
     </ul>
-
-<style>
-    ul {list-style: decimal}
-</style>
 </html>
