@@ -14,7 +14,7 @@
 <style>
     a {font-weight: 100}
     a {color: crimson}
-    a {text-decoration: no-underline}
+    a {text-decoration: none}
 </style>
 
 </html>
