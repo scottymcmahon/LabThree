@@ -12,7 +12,7 @@
 <?php
     $forename = $_POST["forename"];
     $surname = $_POST["surname"];
-    echo "<a>Your superhero name would be:</a>"+ $forename.$surname;
+    echo "HELLO", $forename.$surname;
 ?>
 
 </html>
