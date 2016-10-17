@@ -9,7 +9,8 @@
      */
     ?>
 
-<a href = "helloSelector.php"> CLICK ME</a>
+<a href = "helloSelector.php"> CLICK ME FOR PLANETS</a>;
+<a href = "formResponse.php"> CLICK ME FOR NAMES</a>;
 
 <style>
     a {font-weight: 100}
