@@ -5,3 +5,8 @@
  * Date: 17/10/2016
  * Time: 13:36
  */
+$query = $_GET["query"];
+
+echo "<a> Your chosen planet is: $query</a>";
+
+?>
